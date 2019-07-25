@@ -31,9 +31,19 @@ function initialize()
 	var markerHK=new google.maps.Marker({
     position:{lat:22.3102883, lng:114.1763539},
 });
+
+	var markerMO=new google.maps.Marker({
+    position:{lat:22.19258, lng:113.5457258},
+});
+
+	var markerTAIPA=new google.maps.Marker({
+    position:{lat:22.1581456, lng:113.554444},
+});
  
 marker.setMap(map);
 markerHK.setMap(map);
+markerMO.setMap(map);
+markerTAIPA.setMap(map);
 
 var infowindow = new google.maps.InfoWindow({
   content:"HKU"
@@ -42,9 +52,19 @@ var infowindow = new google.maps.InfoWindow({
 var infowindowHK = new google.maps.InfoWindow({
   content:"HONG KONG"
 });
+
+var infowindowMO = new google.maps.InfoWindow({
+  content:"MACAU"
+});
+
+var infowindowTAIPA = new google.maps.InfoWindow({
+  content:"TAIPA"
+});
  
 infowindow.open(map,marker);
 infowindowHK.open(map,markerHK);
+infowindowMO.open(map,markerMO);
+infowindowTAIPA.open(map,markerTAIPA);
 }
 
 function loadScript()
