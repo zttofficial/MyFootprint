@@ -39,11 +39,16 @@ function initialize()
 	var markerTAIPA=new google.maps.Marker({
     position:{lat:22.1581456, lng:113.554444},
 });
+	
+	var markerTAICHUNG=new google.maps.Marker({
+    position:{lat:24.1565424, lng:120.6766614},
+});
  
 marker.setMap(map);
 markerHK.setMap(map);
 markerMO.setMap(map);
 markerTAIPA.setMap(map);
+markerTAICHUNG.setMap(map);
 
 var infowindow = new google.maps.InfoWindow({
   content:"HKU"
@@ -60,11 +65,16 @@ var infowindowMO = new google.maps.InfoWindow({
 var infowindowTAIPA = new google.maps.InfoWindow({
   content:"TAIPA"
 });
- 
+
+var infowindowTAICHUNG = new google.maps.InfoWindow({
+  content:"TAICHUNG"
+});
+	
 infowindow.open(map,marker);
 infowindowHK.open(map,markerHK);
 infowindowMO.open(map,markerMO);
 infowindowTAIPA.open(map,markerTAIPA);
+infowindowTAICHUNG.open(map,markerTAICHUNG);
 }
 
 function loadScript()
