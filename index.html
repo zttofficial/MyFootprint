@@ -68,6 +68,10 @@ function initialize()
     position:{lat:34.9863351, lng:135.7535815},
 });
 
+	var markerOSAKA=new google.maps.Marker({
+    position:{lat:34.656295, lng:135.5040852},
+});
+
 	var markerChakayan=new google.maps.Marker({
     position:{lat:36.7011228, lng:99.098291},
 });
@@ -88,6 +92,7 @@ markerIRKUTSK.setMap(map);
 markerHCMC.setMap(map);
 markerTOKYO.setMap(map);
 markerKYOTO.setMap(map);
+markerOSAKA.setMap(map);
 markerChakayan.setMap(map);
 markerMelbourne.setMap(map);
 
@@ -124,6 +129,9 @@ var infowindowHCMC = new google.maps.InfoWindow({
 var infowindowTOKYO = new google.maps.InfoWindow({
   content:"TOKYO"
 });
+var infowindowOSAKA = new google.maps.InfoWindow({
+  content:"OSAKA"
+});
 var infowindowChakayan = new google.maps.InfoWindow({
   content:"Chakayan Lake"
 });
@@ -146,6 +154,7 @@ infowindowIRKUTSK.open(map,markerIRKUTSK);
 infowindowHCMC.open(map,markerHCMC);
 infowindowTOKYO.open(map,markerTOKYO);
 infowindowKYOTO.open(map,markerKYOTO);
+infowindowOSAKA.open(map,markerKYOTO);
 infowindowChakayan.open(map,markerChakayan);
 infowindowMelbourne.open(map,markerMelbourne);
 
