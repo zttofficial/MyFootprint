@@ -83,6 +83,10 @@ function initialize()
 	var markerMelbourne=new google.maps.Marker({
     position:{lat:-37.8151412, lng:144.9596174},
 });
+
+	var markerKagoshima=new google.maps.Marker({
+    position:{lat:31.5834881, lng:130.5425378},
+});
  
 marker.setMap(map);
 markerHK.setMap(map);
@@ -100,6 +104,7 @@ markerOSAKA.setMap(map);
 markerHiroshima.setMap(map);
 markerChakayan.setMap(map);
 markerMelbourne.setMap(map);
+markerKagoshima.setMap(map);
 
 var infowindow = new google.maps.InfoWindow({
   content:"HKU"
@@ -149,6 +154,9 @@ var infowindowMelbourne = new google.maps.InfoWindow({
 var infowindowKYOTO = new google.maps.InfoWindow({
   content:"KYOTO"
 });
+var infowindowKagoshima = new google.maps.InfoWindow({
+  content:"Kagoshima"
+});
 	
 infowindow.open(map,marker);
 infowindowHK.open(map,markerHK);
@@ -166,6 +174,7 @@ infowindowOSAKA.open(map,markerKYOTO);
 infowindowHiroshima.open(map,markerHiroshima);
 infowindowChakayan.open(map,markerChakayan);
 infowindowMelbourne.open(map,markerMelbourne);
+infowindowKagoshima.open(map,markerKagoshima);
 
 }
 function loadScript()
