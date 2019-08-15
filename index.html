@@ -91,6 +91,10 @@ function initialize()
 	var markerFukuoka=new google.maps.Marker({
     position:{lat:33.5925357, lng:130.3989664},
 });
+
+	var markerKitakyushu=new google.maps.Marker({
+    position:{lat:33.8735587, lng:130.8545757},
+});
  
 marker.setMap(map);
 markerHK.setMap(map);
@@ -110,6 +114,7 @@ markerChakayan.setMap(map);
 markerMelbourne.setMap(map);
 markerKagoshima.setMap(map);
 markerFukuoka.setMap(map);
+markerKitakyushu.setMap(map);
 
 var infowindow = new google.maps.InfoWindow({
   content:"HKU"
@@ -165,6 +170,9 @@ var infowindowKagoshima = new google.maps.InfoWindow({
 var infowindowFukuoka = new google.maps.InfoWindow({
   content:"Fukuoka"
 });
+var infowindowKitakyushu = new google.maps.InfoWindow({
+  content:"Kitakyushu"
+});
 	
 infowindow.open(map,marker);
 infowindowHK.open(map,markerHK);
@@ -184,6 +192,7 @@ infowindowChakayan.open(map,markerChakayan);
 infowindowMelbourne.open(map,markerMelbourne);
 infowindowKagoshima.open(map,markerKagoshima);
 infowindowFukuoka.open(map,markerFukuoka);
+infowindowKitakyushu.open(map,markerKitakyushu);
 
 }
 function loadScript()
