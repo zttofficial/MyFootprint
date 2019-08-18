@@ -12,7 +12,8 @@ div#content {
 </style>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAoFEXDX9Cglw3b1VTO-MK_I7EEIlBfQ4I&callback=initMap" async defer></script>
- 
+<script src="./js/index.js"></script>
+
 <script>
 function initialize()
 {
@@ -21,7 +22,13 @@ function initialize()
         zoom:4,
         mapTypeId:google.maps.MapTypeId.ROADMAP
     };
-    var map=new google.maps.Map(document.getElementById("googleMap"), mapProp);
+	
+    map=new google.maps.Map(document.getElementById("googleMap"), mapProp);
+	// load object map globally
+	window.map = map;
+	
+	coordinate(23.0270382, 113.1076625, "Foshan")
+	coordinate(22.5120886, 113.3909641, "Zhongshan")
 	
 	var marker=new google.maps.Marker({
     position:{lat:22.2837647, lng:114.1349307},
