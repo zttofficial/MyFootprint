@@ -29,177 +29,32 @@ function initialize()
 	
 	coordinate(23.0270382, 113.1076625, "Foshan")
 	coordinate(22.5120886, 113.3909641, "Zhongshan")
-	
-	var marker=new google.maps.Marker({
-    position:{lat:22.2837647, lng:114.1349307},
-});
-	var markerHK=new google.maps.Marker({
-    position:{lat:22.3102883, lng:114.1763539},
-});
-	var markerMO=new google.maps.Marker({
-    position:{lat:22.19258, lng:113.5457258},
-});
-	var markerTAIPA=new google.maps.Marker({
-    position:{lat:22.1581456, lng:113.554444},
-});
-	
-	var markerTAICHUNG=new google.maps.Marker({
-    position:{lat:24.1565424, lng:120.6766614},
-});
-
-	var markerZHUHAI=new google.maps.Marker({
-    position:{lat:22.2737036, lng:113.5634305},
-});
-
-	var markerSH=new google.maps.Marker({
-    position:{lat:31.2381377, lng:121.5079033},
-});
-
-	var markerBJ=new google.maps.Marker({
-    position:{lat:39.9173624, lng:116.3882618},
-});
-	
-	var markerIRKUTSK=new google.maps.Marker({
-    position:{lat:52.2860074, lng:104.2804575},
-});
-
-	var markerHCMC=new google.maps.Marker({
-    position:{lat:10.7962879, lng:106.6493182},
-});
-
-	var markerTOKYO=new google.maps.Marker({
-    position:{lat:35.681776, lng:139.7649583},
-});
-
-	var markerKYOTO=new google.maps.Marker({
-    position:{lat:34.9863351, lng:135.7535815},
-});
-
-	var markerOSAKA=new google.maps.Marker({
-    position:{lat:34.656295, lng:135.5040852},
-});
-
-	var markerHiroshima=new google.maps.Marker({
-    position:{lat:34.3972525, lng:132.4582659},
-});
-
-	var markerChakayan=new google.maps.Marker({
-    position:{lat:36.7011228, lng:99.098291},
-});
-
-	var markerMelbourne=new google.maps.Marker({
-    position:{lat:-37.8151412, lng:144.9596174},
-});
-
-	var markerKagoshima=new google.maps.Marker({
-    position:{lat:31.5834881, lng:130.5425378},
-});
-
-	var markerFukuoka=new google.maps.Marker({
-    position:{lat:33.5925357, lng:130.3989664},
-});
-
-	var markerKitakyushu=new google.maps.Marker({
-    position:{lat:33.8735587, lng:130.8545757},
-});
- 
-marker.setMap(map);
-markerHK.setMap(map);
-markerMO.setMap(map);
-markerTAIPA.setMap(map);
-markerTAICHUNG.setMap(map);
-markerZHUHAI.setMap(map);
-markerSH.setMap(map);
-markerBJ.setMap(map);
-markerIRKUTSK.setMap(map);
-markerHCMC.setMap(map);
-markerTOKYO.setMap(map);
-markerKYOTO.setMap(map);
-markerOSAKA.setMap(map);
-markerHiroshima.setMap(map);
-markerChakayan.setMap(map);
-markerMelbourne.setMap(map);
-markerKagoshima.setMap(map);
-markerFukuoka.setMap(map);
-markerKitakyushu.setMap(map);
-
-var infowindow = new google.maps.InfoWindow({
-  content:"HKU"
-});
-var infowindowHK = new google.maps.InfoWindow({
-  content:"HONG KONG"
-});
-var infowindowMO = new google.maps.InfoWindow({
-  content:"MACAU"
-});
-var infowindowTAIPA = new google.maps.InfoWindow({
-  content:"TAIPA"
-});
-var infowindowTAICHUNG = new google.maps.InfoWindow({
-  content:"TAICHUNG"
-});
-var infowindowZHUHAI = new google.maps.InfoWindow({
-  content:"ZHUHAI"
-});
-var infowindowSH = new google.maps.InfoWindow({
-  content:"SHANGHAI"
-});
-var infowindowBJ = new google.maps.InfoWindow({
-  content:"BEIJING"
-});
-var infowindowIRKUTSK = new google.maps.InfoWindow({
-  content:"IRKUTSK"
-});
-var infowindowHCMC = new google.maps.InfoWindow({
-  content:"Ho Chi Minh City"
-});
-var infowindowTOKYO = new google.maps.InfoWindow({
-  content:"TOKYO"
-});
-var infowindowOSAKA = new google.maps.InfoWindow({
-  content:"OSAKA"
-});
-var infowindowHiroshima = new google.maps.InfoWindow({
-  content:"Hiroshima"
-});
-var infowindowChakayan = new google.maps.InfoWindow({
-  content:"Chakayan Lake"
-});
-var infowindowMelbourne = new google.maps.InfoWindow({
-  content:"MELBOURNE"
-});
-var infowindowKYOTO = new google.maps.InfoWindow({
-  content:"KYOTO"
-});
-var infowindowKagoshima = new google.maps.InfoWindow({
-  content:"Kagoshima"
-});
-var infowindowFukuoka = new google.maps.InfoWindow({
-  content:"Fukuoka"
-});
-var infowindowKitakyushu = new google.maps.InfoWindow({
-  content:"Kitakyushu"
-});
-	
-infowindow.open(map,marker);
-infowindowHK.open(map,markerHK);
-infowindowMO.open(map,markerMO);
-infowindowTAIPA.open(map,markerTAIPA);
-infowindowTAICHUNG.open(map,markerTAICHUNG);
-infowindowZHUHAI.open(map,markerZHUHAI);
-infowindowSH.open(map,markerSH);
-infowindowBJ.open(map,markerBJ);
-infowindowIRKUTSK.open(map,markerIRKUTSK);
-infowindowHCMC.open(map,markerHCMC);
-infowindowTOKYO.open(map,markerTOKYO);
-infowindowKYOTO.open(map,markerKYOTO);
-infowindowOSAKA.open(map,markerOSAKA);
-infowindowHiroshima.open(map,markerHiroshima);
-infowindowChakayan.open(map,markerChakayan);
-infowindowMelbourne.open(map,markerMelbourne);
-infowindowKagoshima.open(map,markerKagoshima);
-infowindowFukuoka.open(map,markerFukuoka);
-infowindowKitakyushu.open(map,markerKitakyushu);
+	coordinate(22.2837647, 114.1349307, "HKU")
+	coordinate(22.3102883, 114.1763539, "HONG KONG")
+	coordinate(22.19258, 113.5457258, "MACAU")
+	coordinate(22.1581456, 113.554444, "TAIPA")
+	coordinate(24.1565424, 120.6766614, "TAICHUNG")
+	coordinate(22.2737036, 113.5634305, "Zhuhai")
+	coordinate(31.2381377, 121.5079033, "SHANGHAI")
+	coordinate(39.9173624, 116.3882618, "BEIJING")
+	coordinate(52.2860074, 104.2804575, "IRKUTSK")
+	coordinate(10.7962879, 106.6493182, "Ho Chi Minh City")
+	coordinate(35.681776, 139.7649583, "TOKYO")
+	coordinate(34.9863351, 135.7535815, "KYOTO")
+	coordinate(34.656295, 135.5040852, "OSAKA")
+	coordinate(34.3972525, 132.4582659, "Hiroshima")
+	coordinate(36.7011228, 99.098291, "Chakayan Lake")
+	coordinate(-37.8151412, 144.9596174, "MELBOURNE")
+	coordinate(31.5834881, 130.5425378, "Kagoshima")
+	coordinate(33.5925357, 130.3989664, "Fukuoka")
+	coordinate(33.8735587, 130.8545757, "Kitakyushu")
+	coordinate(22.5457283, 113.9042587, "Shenzhen")
+	coordinate(23.131981, 113.2554219, "Guangzhou")
+	coordinate(23.0573293, 112.4529101, "Zhaoqing")
+	coordinate(20.0033844, 110.2935452, "Haikou")
+	coordinate(19.5252489, 109.5812099, "Danzhou")
+	coordinate(18.2485367, 109.5032839, "Sanya")
+	coordinate(30.6577904, 104.0635645, "Chengdu")
 
 }
 function loadScript()
