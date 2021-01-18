@@ -11,8 +11,8 @@ div#content {
 }
 </style>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=YOURAPIHERE&callback=initMap" async defer></script>
-<!-- Use your API to replace "YOURAPIHERE" text--> 
+<script src="https://maps.googleapis.com/maps/api/js?key=${{ secrets.MAPS_API }}&callback=initMap" async defer></script>
+<!-- Use your API to replace "${{ secrets.MAPS_API }}" text--> 
 <script src="./js/index.js"></script>
 
 <script>
@@ -120,8 +120,8 @@ function loadScript()
 {
   var script = document.createElement("script");
   script.type = "text/javascript";
-  script.src = "https://maps.googleapis.com/maps/api/js?key=YOURAPIHERE&sensor=false&callback=initialize";
-  <!-- Use your API to replace "YOURAPIHERE" text--> 
+  script.src = "https://maps.googleapis.com/maps/api/js?key=${{ secrets.MAPS_API }}&sensor=false&callback=initialize";
+  <!-- Use your API to replace "${{ secrets.MAPS_API }}" text--> 
   document.body.appendChild(script);
 }
 
