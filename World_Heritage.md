@@ -16,7 +16,7 @@
 - [ ] [Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu](https://whc.unesco.org/en/list/704)
 - [ ] [Lushan National Park](https://whc.unesco.org/en/list/778)
 - [ ] [Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area](https://whc.unesco.org/en/list/779)
-- [ ] [Ancient City of Ping Yao](https://whc.unesco.org/en/list/812)
+- [x] [Ancient City of Ping Yao](https://whc.unesco.org/en/list/812)
 - [ ] [Classical Gardens of Suzhou](https://whc.unesco.org/en/list/813)
 - [ ] [Old Town of Lijiang](https://whc.unesco.org/en/list/811)
 - [ ] [Summer Palace, an Imperial Garden in Beijing](https://whc.unesco.org/en/list/880)
