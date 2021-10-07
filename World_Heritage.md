@@ -33,7 +33,7 @@
 - [x] [Historic Centre of Macao](https://whc.unesco.org/en/list/1110)
 - [ ] [Sichuan Giant Panda Sanctuaries - Wolong, Mt Siguniang and Jiajin Mountains](https://whc.unesco.org/en/list/1213)
 - [ ] [Yin Xu](https://whc.unesco.org/en/list/1114)
-- [ ] [Kaiping Diaolou and Villages](https://whc.unesco.org/en/list/1112)
+- [x] [Kaiping Diaolou and Villages](https://whc.unesco.org/en/list/1112)
 - [x] [South China Karst](https://whc.unesco.org/en/list/1248)
 - [x] [Fujian *Tulou*](https://whc.unesco.org/en/list/1113)
 - [ ] [Mount Sanqingshan National Park](https://whc.unesco.org/en/list/1292)
