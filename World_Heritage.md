@@ -55,7 +55,7 @@
 - [ ] [Fanjingshan](https://whc.unesco.org/en/list/1559)
 - [x] [Archaeological Ruins of Liangzhu City](https://whc.unesco.org/en/list/1592)
 - [ ] [Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I)](https://whc.unesco.org/en/list/1606)
-- [ ] [Quanzhou: Emporium of the World in Song-Yuan China](https://whc.unesco.org/en/list/1561)
+- [x] [Quanzhou: Emporium of the World in Song-Yuan China](https://whc.unesco.org/en/list/1561)
 
 
 
