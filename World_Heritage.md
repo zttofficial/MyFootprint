@@ -24,7 +24,7 @@
 - [x] [Dazu Rock Carvings](https://whc.unesco.org/en/list/912)
 - [ ] [Mount Wuyi](https://whc.unesco.org/en/list/911)
 - [ ] [Ancient Villages in Southern Anhui – Xidi and Hongcun](https://whc.unesco.org/en/list/1002)
-- [ ] [Imperial Tombs of the Ming and Qing Dynasties](https://whc.unesco.org/en/list/1004)
+- [x] [Imperial Tombs of the Ming and Qing Dynasties](https://whc.unesco.org/en/list/1004)
 - [ ] [Longmen Grottoes](https://whc.unesco.org/en/list/1003)
 - [ ] [Mount Qingcheng and the Dujiangyan Irrigation System](https://whc.unesco.org/en/list/1001)
 - [ ] [Yungang Grottoes](https://whc.unesco.org/en/list/1039)
