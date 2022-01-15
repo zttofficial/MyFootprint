@@ -47,7 +47,7 @@
 - [ ] [Xinjiang Tianshan](https://whc.unesco.org/en/list/1414)
 - [ ] [Silk Roads: the Routes Network of Chang'an-Tianshan Corridor](https://whc.unesco.org/en/list/1442) [*](https://whc.unesco.org/en/list/#transboundary)
 - [x] [The Grand Canal](https://whc.unesco.org/en/list/1443)
-- [ ] [Tusi Sites](https://whc.unesco.org/en/list/1474)
+- [x] [Tusi Sites](https://whc.unesco.org/en/list/1474)
 - [ ] [Hubei Shennongjia](https://whc.unesco.org/en/list/1509)
 - [ ] [Zuojiang Huashan Rock Art Cultural Landscape](https://whc.unesco.org/en/list/1508)
 - [x] [Kulangsu, a Historic International Settlement](https://whc.unesco.org/en/list/1541)
