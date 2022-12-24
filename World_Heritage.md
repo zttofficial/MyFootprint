@@ -102,8 +102,6 @@
 
 
 
-### Mexico
-
-------
+## Mexico
 
 - [x] [Pre-Hispanic City of Chichen-Itza](https://whc.unesco.org/en/list/483)
