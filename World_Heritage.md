@@ -111,3 +111,4 @@
 ## Canada
 
 - [x] [Canadian Rocky Mountain Parks](https://whc.unesco.org/en/list/304)
+- [x] [Rideau Canal](https://whc.unesco.org/en/list/1221)
