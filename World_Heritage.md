@@ -57,7 +57,7 @@
 - [ ] [Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I)](https://whc.unesco.org/en/list/1606)
 - [x] [Quanzhou: Emporium of the World in Song-Yuan China](https://whc.unesco.org/en/list/1561)
 
-**Tentative**
+**Tentative List**
 
 - [x] [Yangtze Gorges Scenic Spot](https://whc.unesco.org/en/tentativelists/1623/)
 - [x] [Heaven Pit and Ground Seam Scenic Spot](https://whc.unesco.org/en/tentativelists/1625/)
@@ -105,6 +105,12 @@
 - [ ] [Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan](https://whc.unesco.org/en/list/1593)
 - [ ] [Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island](https://whc.unesco.org/en/list/1574)
 - [ ] [Jomon Prehistoric Sites in Northern Japan](https://whc.unesco.org/en/list/1632)
+
+**Tentative List**
+
+- [x] 
+
+- [x] [Temples, Shrines and other structures of Ancient Kamakura](https://whc.unesco.org/en/tentativelists/370/)
 
 
 
