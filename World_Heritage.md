@@ -57,6 +57,19 @@
 - [ ] [Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I)](https://whc.unesco.org/en/list/1606)
 - [x] [Quanzhou: Emporium of the World in Song-Yuan China](https://whc.unesco.org/en/list/1561)
 
+**Tentative**
+
+- [x] [Yangtze Gorges Scenic Spot](https://whc.unesco.org/en/tentativelists/1623/)
+- [x] [Heaven Pit and Ground Seam Scenic Spot](https://whc.unesco.org/en/tentativelists/1625/)
+- [x] [City Walls of the Ming and Qing Dynasties](https://whc.unesco.org/en/tentativelists/5324/)
+- [x] [Chinese Section of the Silk Road: Land routes in Henan Province, Shaanxi Province, Gansu Province, Qinghai Province, Ningxia Hui Autonomous Region, and Xinjiang Uygur Autonomous Region; Sea Routes in Ningbo City, Zhejiang Province and Quanzhou City, Fujian Province - from Western-Han Dynasty to Qing Dynasty](https://whc.unesco.org/en/tentativelists/5335/)
+- [x] [Baiheliang Ancient Hydrological Inscription](https://whc.unesco.org/en/tentativelists/5341/)
+- [x] [The Central Axis of Beijing (including Beihai)](https://whc.unesco.org/en/tentativelists/5802/)
+- [x] [Archaeological Sites of the Ancient Shu State: Site at Jinsha and Joint Tombs of Boat- shaped Coffins in Chengdu City, Sichuan Province; Site of Sanxingdui in Guanghan City, Sichuan Province 29C.BC-5C.BC](https://whc.unesco.org/en/tentativelists/5816/)
+- [x] [The Chinese Section of the Silk Roads](https://whc.unesco.org/en/tentativelists/6093/)
+- [x] [Hulun Buir Landscape & Birthplace of Ancient Minority](https://whc.unesco.org/en/tentativelists/6185/)
+- [x] [Qinghai Lake](https://whc.unesco.org/en/tentativelists/6186/)
+
 
 
 ## Australia
