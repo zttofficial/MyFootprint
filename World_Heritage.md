@@ -108,8 +108,6 @@
 
 **Tentative List**
 
-- [x] 
-
 - [x] [Temples, Shrines and other structures of Ancient Kamakura](https://whc.unesco.org/en/tentativelists/370/)
 
 
@@ -131,3 +129,8 @@
 
 - [x] [Canadian Rocky Mountain Parks](https://whc.unesco.org/en/list/304)
 - [x] [Rideau Canal](https://whc.unesco.org/en/list/1221)
+- [x] [Mistaken Point](https://whc.unesco.org/en/list/1497)
+
+**Tentative List**
+
+- [x] [Transatlantic Cable Ensemble](https://whc.unesco.org/en/tentativelists/6631/)
