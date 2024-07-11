@@ -140,3 +140,16 @@
 ## Colombia
 
 - [x] [Port, Fortresses and Group of Monuments, Cartagena](https://whc.unesco.org/en/list/285)
+
+
+
+## USA
+
+- [x] [Statue of Liberty](https://whc.unesco.org/en/list/307)
+- [x] [The 20th-Century Architecture of Frank Lloyd Wright](https://whc.unesco.org/en/list/1496)
+
+**Tentative List**
+
+- [x] [Brooklyn Bridge](https://whc.unesco.org/en/tentativelists/6232/)
+- [x] [Central Park](https://whc.unesco.org/en/tentativelists/6234/)
+- [x] [Early Chicago Skyscrapers](https://whc.unesco.org/en/tentativelists/6235/)
