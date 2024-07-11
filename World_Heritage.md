@@ -151,5 +151,6 @@
 **Tentative List**
 
 - [x] [Brooklyn Bridge](https://whc.unesco.org/en/tentativelists/6232/)
+- [x] [Ellis Island](https://whc.unesco.org/en/tentativelists/6233/)
 - [x] [Central Park](https://whc.unesco.org/en/tentativelists/6234/)
 - [x] [Early Chicago Skyscrapers](https://whc.unesco.org/en/tentativelists/6235/)
