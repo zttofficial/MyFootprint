@@ -54,8 +54,11 @@
 - [ ] [Qinghai Hoh Xil](https://whc.unesco.org/en/list/1540)
 - [ ] [Fanjingshan](https://whc.unesco.org/en/list/1559)
 - [x] [Archaeological Ruins of Liangzhu City](https://whc.unesco.org/en/list/1592)
-- [ ] [Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I)](https://whc.unesco.org/en/list/1606)
+- [ ] [Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase II)](https://whc.unesco.org/en/list/1606)
 - [x] [Quanzhou: Emporium of the World in Song-Yuan China](https://whc.unesco.org/en/list/1561)
+- [ ] [Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665)
+- [ ] [Badain Jaran Desert - Towers of Sand and Lakes](https://whc.unesco.org/en/list/1638)
+- [x] [Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital](https://whc.unesco.org/en/list/1714)
 
 **Tentative List**
 
