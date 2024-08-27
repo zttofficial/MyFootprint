@@ -137,6 +137,7 @@
 **Tentative List**
 
 - [x] [Transatlantic Cable Ensemble](https://whc.unesco.org/en/tentativelists/6631/)
+- [x] [Wanuskewin](https://whc.unesco.org/en/tentativelists/6342/)
 
 
 
