@@ -11,7 +11,7 @@
 - [ ] [Jiuzhaigou Valley Scenic and Historic Interest Area](https://whc.unesco.org/en/list/637)
 - [x] [Wulingyuan Scenic and Historic Interest Area](https://whc.unesco.org/en/list/640)
 - [ ] [Ancient Building Complex in the Wudang Mountains](https://whc.unesco.org/en/list/705)
-- [ ] [Historic Ensemble of the Potala Palace, Lhasa](https://whc.unesco.org/en/list/707) [8](https://whc.unesco.org/en/list/#note8)
+- [x] [Historic Ensemble of the Potala Palace, Lhasa](https://whc.unesco.org/en/list/707) [8](https://whc.unesco.org/en/list/#note8)
 - [ ] [Mountain Resort and its Outlying Temples, Chengde](https://whc.unesco.org/en/list/703)
 - [ ] [Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu](https://whc.unesco.org/en/list/704)
 - [ ] [Lushan National Park](https://whc.unesco.org/en/list/778)
@@ -72,6 +72,8 @@
 - [x] [The Chinese Section of the Silk Roads](https://whc.unesco.org/en/tentativelists/6093/)
 - [x] [Hulun Buir Landscape & Birthplace of Ancient Minority](https://whc.unesco.org/en/tentativelists/6185/)
 - [x] [Qinghai Lake](https://whc.unesco.org/en/tentativelists/6186/)
+- [x] [Tulin-Guge Scenic and Historic Interest Areas](https://whc.unesco.org/en/tentativelists/5995/)
+- [x] [Scenic and historic area of Sacred Mountains and Lakes](https://whc.unesco.org/en/tentativelists/6187/)
 
 
 
