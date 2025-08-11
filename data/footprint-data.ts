@@ -206,4 +206,5 @@ export const footprintData: FootprintLocation[] = [
 	{ lat: 45.720636, lng: -82.0335872, name: "Manitoulin Island" },
 	{ lat: 45.2524499, lng: -81.6626526, name: "Tobermory" },
   { lat: 43.8973014, lng: -78.863521, name: "Oshawa" },
+  
 ]
