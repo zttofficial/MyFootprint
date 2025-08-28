@@ -135,6 +135,7 @@
 - [x] [Canadian Rocky Mountain Parks](https://whc.unesco.org/en/list/304)
 - [x] [Rideau Canal](https://whc.unesco.org/en/list/1221)
 - [x] [Mistaken Point](https://whc.unesco.org/en/list/1497)
+- [x] [Historic District of Old Québec](https://whc.unesco.org/en/list/300)
 
 **Tentative List**
 
