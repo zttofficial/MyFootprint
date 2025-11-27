@@ -122,6 +122,10 @@
 - [x] [Lake Baikal](https://whc.unesco.org/en/list/754)
 - [x] [Landscapes of Dauria](http://whc.unesco.org/en/list/1448) 
 
+**Tentative List**
+
+- [x] [Historic Centre of Irkutsk](https://whc.unesco.org/en/tentativelists/1166/)
+
 
 
 ## Mexico
