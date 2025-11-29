@@ -165,3 +165,12 @@
 - [x] [Ellis Island](https://whc.unesco.org/en/tentativelists/6233/)
 - [x] [Central Park](https://whc.unesco.org/en/tentativelists/6234/)
 - [x] [Early Chicago Skyscrapers](https://whc.unesco.org/en/tentativelists/6235/)
+
+
+
+## Singapore
+
+**Tentative List**
+
+- [ ] [The Padang Civic Ensemble](https://whc.unesco.org/en/tentativelists/6620/)
+
