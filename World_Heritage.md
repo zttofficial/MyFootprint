@@ -172,5 +172,5 @@
 
 **Tentative List**
 
-- [ ] [The Padang Civic Ensemble](https://whc.unesco.org/en/tentativelists/6620/)
+- [x] [The Padang Civic Ensemble](https://whc.unesco.org/en/tentativelists/6620/)
 
