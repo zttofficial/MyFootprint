@@ -158,6 +158,7 @@
 
 - [x] [Statue of Liberty](https://whc.unesco.org/en/list/307)
 - [x] [The 20th-Century Architecture of Frank Lloyd Wright](https://whc.unesco.org/en/list/1496)
+- [x] [Hawaii Volcanoes National Park](https://whc.unesco.org/en/list/409)
 
 **Tentative List**
 
