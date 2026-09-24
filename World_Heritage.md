@@ -177,3 +177,12 @@
 
 - [x] [The Padang Civic Ensemble](https://whc.unesco.org/en/tentativelists/6620/)
 
+
+
+## Thailand
+
+- [x] [Historic City of Ayutthaya](https://whc.unesco.org/en/list/576/)
+
+**Tentative List**
+
+- [x] [Phra Prang of Wat Arun Ratchawararam: The Masterpiece of Krung Rattanakosin](https://whc.unesco.org/en/tentativelists/6821/)
