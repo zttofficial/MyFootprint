@@ -132,6 +132,8 @@
 ## Mexico
 
 - [x] [Pre-Hispanic City of Chichen-Itza](https://whc.unesco.org/en/list/483)
+- [x] [Agave Landscape and Ancient Industrial Facilities of Tequila](https://whc.unesco.org/en/list/1209)
+- [x] [Hospicio Cabañas, Guadalajara](https://whc.unesco.org/en/list/815)
 
 
 
